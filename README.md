@@ -5,10 +5,10 @@
 
 ## There are various Beats for different purposes:
 
-Filebeat: For file monitoring
-Metricbeat: For metrics monitoring
-Packetbeat: For network data monitoring
-Heartbeat: For uptime monitoring
+- Filebeat: For file monitoring
+- Metricbeat: For metrics monitoring
+- Packetbeat: For network data monitoring
+- Heartbeat: For uptime monitoring
 
 ```
  sudo ./filebeat -e -c filebeat.yml
