@@ -4,3 +4,11 @@ Spring Boot logs aggregation and monitoring with ELK stack
 Java code for how you can integrate ELK stack with your Spring Boot application for logs aggregation and monitoring in a centralized way.
 
 A detailed Blog Post - https://auth0.com/blog/spring-boot-logs-aggregation-and-monitoring-using-elk-stack/
+
+## REST URLS
+
+```
+- /api/hello — It returns the "Hello World!" message with the current timestamp.
+- /api/Food-Details — It gives the details of some food data, which is stored inside a JSON file
+
+```
