@@ -25,6 +25,9 @@ That's the part performed by Logstash.
 - http://localhost:9200/_aliases   : list of all indices in your cluster
 - http://localhost:9200/_cluster/state
 
+## Kibana
+- http://localhost:5601/app/discover :  Discover index
+
 ## There are various Beats for different purposes:
 
 - Filebeat: For file monitoring
