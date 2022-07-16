@@ -15,7 +15,7 @@ Heartbeat: For uptime monitoring
 ```
 
 * filebeat.yml
-``` yml
+```yml
 filebeat.inputs:
   - type: log
     enabled: true
