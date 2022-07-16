@@ -3,7 +3,7 @@
 
 ## ELK Docker
 
-- https://github.com/sanogotech/docker-elk
+- https://github.com/sanogotech/docker-elk-basic
 
 ## When to Use Filebeat and When to Use Logstash?
 
