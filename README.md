@@ -18,6 +18,7 @@ That's the part performed by Logstash.
 ##  Docs
 - https://auth0.com/blog/spring-boot-logs-aggregation-and-monitoring-using-elk-stack/
 - https://www.elastic.co/fr/downloads/beats/filebeat
+- https://blog.lsonline.fr/2020/07/17/how-to-request-and-expose-your-elasticsearch-engine-for-your-ghost-blog/
 - http://www.andrew-programming.com/2018/09/18/integrate-springboot-application-with-elk-and-filebeat/
 
 ## ElasticSearch command
