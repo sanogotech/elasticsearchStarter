@@ -71,4 +71,4 @@ output.elasticsearch:
 ![All Beats](https://github.com/sanogotech/elasticsearchStarter/blob/main/docs/images/beats.jpg)
 
 
-https://github.com/sanogotech/elasticsearchStarter/blob/main/docs/images/beatsELK.jpeg
+![beat to logstash](https://github.com/sanogotech/elasticsearchStarter/blob/main/docs/images/beatsELK.jpeg)
