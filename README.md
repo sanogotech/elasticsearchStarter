@@ -20,14 +20,24 @@ That's the part performed by Logstash.
 - https://www.elastic.co/fr/downloads/beats/filebeat
 - https://blog.lsonline.fr/2020/07/17/how-to-request-and-expose-your-elasticsearch-engine-for-your-ghost-blog/
 - http://www.andrew-programming.com/2018/09/18/integrate-springboot-application-with-elk-and-filebeat/
-
+- https://www.elastic.co/fr/support/matrix#show_compatibility
+- https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-modules.html
+- https://www.elastic.co/guide/en/beats/filebeat/current/configuration-filebeat-options.html
+- https://medium.com/@ketan.bhadoriya/how-to-create-a-custom-index-name-in-filebeat-68151138e090
 ## ElasticSearch command
 
 - http://localhost:9200/_aliases   : list of all indices in your cluster
+- http://localhost:9200/_cat/indices : it will display all the indexes that have ever been created inside elasticsearch
 - http://localhost:9200/_cluster/state
+- http://localhost:5601/app/management/kibana/indexPatterns
 
 ## Kibana
 - http://localhost:5601/app/discover :  Discover index
+
+## Logstash /Beats
+- https://www.javainuse.com/elasticsearch/filebeat-elk
+- https://www.javainuse.com/grok  : Online Grok Pattern (+120 pattern)
+- https://www.elastic.co/guide/en/elasticsearch/reference/7.8/dissect-processor.html
 
 ## There are various Beats for different purposes:
 
