@@ -2,7 +2,6 @@
 
 ## Concepts
 
-
 ![All Beats](https://github.com/sanogotech/elasticsearchStarter/blob/main/docs/images/beats-logstash.jpg)
 
 ## ELK Docker
@@ -70,3 +69,6 @@ output.elasticsearch:
 ## Annexes
 
 ![All Beats](https://github.com/sanogotech/elasticsearchStarter/blob/main/docs/images/beats.jpg)
+
+
+https://github.com/sanogotech/elasticsearchStarter/blob/main/docs/images/beatsELK.jpg
